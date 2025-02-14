@@ -1,4 +1,4 @@
-# Ridae
+![Full Stack Developer](./banner.png)
 
 Nosso grupo de interesse foi concebido para navegar pelo vasto universo do desenvolvimento de software, abrangendo desde projetos pessoais inovadores até soluções corporativas de grande escala. Em nossa missão de expandir e democratizar o conhecimento, Ridae atua como um hub vital para colaboração e inovação.
 
